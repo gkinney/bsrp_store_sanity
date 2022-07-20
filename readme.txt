@@ -1,1 +1,3 @@
-This is the inital setup of this appliucation.
+This is the inital setup of this application.
+
+Ive Edited my file.
