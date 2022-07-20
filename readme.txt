@@ -1,1 +1,0 @@
-This is the inital setup of this application.
